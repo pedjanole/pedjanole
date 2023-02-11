@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...\
-- :office:Nastavnik u skoli
+- :office:Nastavnik u skoli\
+- :computer:ostanaskorajic\
+- :email:pedjanole@gmail.com
 
