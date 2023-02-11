@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...\
-- :office:nastavnik u skoli
+- :office:Nastavnik u skoli
 
